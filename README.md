@@ -23,6 +23,6 @@ A responsive signup form built with Bootstrap 4, featuring:
 
 🚀 How to Run
 
-Open index.html in any browser.
+Open Sign_Up_Form.html in any browser.
 
 Interact with the signup form to see the responsive layout.
