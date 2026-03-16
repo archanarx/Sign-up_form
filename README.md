@@ -1,4 +1,4 @@
-🅱️ Bootstrap 4 Responsive Signup Form
+# Bootstrap 4 Responsive Signup Form
 
 A responsive signup form built with Bootstrap 4, featuring:
 
@@ -8,7 +8,7 @@ A responsive signup form built with Bootstrap 4, featuring:
 
 * Password & Confirm Password
 
-📌 Features
+ Features:
 
 * Fully responsive layout for desktop, tablet, and mobile
 
@@ -16,7 +16,7 @@ A responsive signup form built with Bootstrap 4, featuring:
 
 * Proper labels and placeholders for all fields
 
-  🖼 Screenshot
+   Screenshot
 ![Desktop View](screenshot/desktop.png)
 
 
